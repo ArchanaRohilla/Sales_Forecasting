@@ -48,7 +48,7 @@ Tri Luu - Finalized Dashboard and Presentation, Practiced Presentation
 Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Presentation
 
 ## Process Overview and Technology used
-![alt text](JPGS/ProcessFlow.png)
+![alt text](Images/ProcessFlow.png)
 
 
 
